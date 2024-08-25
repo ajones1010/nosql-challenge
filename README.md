@@ -10,7 +10,7 @@ NoSQL_setup_starter.ipynb
 NoSQL_analysis_starter.ipynb
 
 - This section focuses on the actual analysis of the food hygiene ratings data, answering the four following questions:
-- 
+  
 - 1. Which establishments have a hygiene score equal to 20?
  
 - 2. Which establishments in London have a RatingValue greater than or equal to 4?
